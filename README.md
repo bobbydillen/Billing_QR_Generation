@@ -1,7 +1,7 @@
 # Billing_apk_GST
 A billing software where GST fraud detection is enabled
 Introduction
-In today’s digital economy, ensuring transparency and compliance with tax regulations is crucial for businesses. The Node.js & MongoDB-Based Billing System with GST Fraud Prevention is designed to streamline invoicing while ensuring GST compliance through secure QR code validation. This system offers an efficient way to manage product records, generate bills, and prevent tax fraud by integrating a government-linked verification mechanism.
+In today’s digital economy, ensuring transparency and compliance with tax regulations is crucial for businesses. The Next.js & MongoDB-Based Billing System with GST Fraud Prevention is designed to streamline invoicing while ensuring GST compliance through secure QR code validation. This system offers an efficient way to manage product records, generate bills, and prevent tax fraud by integrating a government-linked verification mechanism.
 Key Features
 
 1. Billing System
